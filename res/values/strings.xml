@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YEP</string>
+    <string name="username_hint">usuario</string>
+    <string name="password_hint">password</string>
+    <string name="yep">YEP!</string>
+    <string name="doIknowyou">DO I KNOW YOU?</string>
+    <string name="signup">have an account?SIGN UP here!</string>
+    <string name="a"></string>
+    <string name="b"></string>
+</resources>
